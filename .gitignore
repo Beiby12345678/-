@@ -5,3 +5,4 @@ package*.json
 test*.js
 *.png
 !assets/favicon.png
+.vercel/
